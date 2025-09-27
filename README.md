@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner dengan animasi -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Ainun+Nawawi;Game+Developer;Full+Stack+Developer;Tech+Enthusiast" alt="Typing animation" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B;I'm+Ainun+Nawawi;Game+Developer;Full+Stack+Developer;Tech+Enthusiast" alt="Typing SVG" /></a>
 
 <!-- Stats dengan efek game -->
 <div align="center">
