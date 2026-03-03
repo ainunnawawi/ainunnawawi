@@ -32,63 +32,66 @@
 
 ---
 
-<h2 align="center">🎮 Skills & Levels</h2>
+<h2 align="center">💼 Professional Profile</h2>
+
+<p align="center">
+Full Stack Web Developer at <b>Dinas Komunikasi dan Informatika Kabupaten Sampang</b><br>
+Building scalable government applications & public digital services.
+</p>
+
+---
+
+<h2 align="center">🛠 Tech Stack & Expertise</h2>
 
 <p align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-LVL_85-yellow?style=for-the-badge&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-LVL_78-blue?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-LVL_75-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-LVL_80-green?style=for-the-badge&logo=node.js&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-LVL_70-black?style=for-the-badge&logo=unity&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-Expert-red?style=for-the-badge&logo=laravel&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-Advanced-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-Advanced-green?style=for-the-badge&logo=node.js&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-Expert-005571?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-Advanced-blue?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Intermediate-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-Advanced-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 </p>
 
 ---
 
-<h2 align="center">⚡ Current Quest Progress</h2>
+<h2 align="center">🚀 Current Focus</h2>
 
 <p align="center">
-
-🌱 **Learning Journey**  
-🚀 Advanced Unity3D  
-🔥 Three.js & WebGL  
-⚡ Next.js 14  
-🎯 Game Optimization  
-
-<br>
-
-💼 **Project Completion**  
-██████████░░░░ 70%
-
+🔹 Government Web Applications Architecture<br>
+🔹 API Integration & System Interoperability<br>
+🔹 Performance Optimization & Security Hardening<br>
+🔹 Dashboard & Data Visualization Systems<br>
 </p>
 
 ---
 
-<h2 align="center">🎯 Mission Control</h2>
+<h2 align="center">🎯 Developer Identity</h2>
 
 ```javascript
 class AinunNawawi {
   constructor() {
-    this.interests = [
-      "🎮 Game Development",
-      "🤖 AI & Machine Learning", 
-      "📱 Mobile App Development",
-      "🌐 Web Technologies",
-      "🎨 UI/UX Design"
-    ];
+    this.role = "Full Stack Web Developer";
+    this.organization = "Dinas Kominfo Kabupaten Sampang";
     
-    this.currentLearning = [
-      "🚀 Advanced Unity3D",
-      "🔥 Three.js & WebGL",
-      "⚡ Next.js 14",
-      "🎯 Game Optimization"
+    this.coreStack = [
+      "Laravel",
+      "Next.js",
+      "React",
+      "REST API",
+      "MySQL",
+      "Docker",
+      "Nginx"
     ];
-    
-    this.collaborationGoals = [
-      "Open Source Game Projects",
-      "Innovative Tech Solutions",
-      "Educational Content Creation"
+
+    this.specialization = [
+      "Government Digital Services",
+      "System Integration",
+      "Backend Architecture",
+      "Modern Frontend Development"
     ];
   }
 }
