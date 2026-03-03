@@ -35,7 +35,7 @@
 <h2 align="center">💼 Professional Profile</h2>
 
 <p align="center">
-Full Stack Web Developer at <b>Dinas Komunikasi dan Informatika Kabupaten Sampang</b><br>
+Full Stack Web Developer<br>
 Building scalable government applications & public digital services.
 </p>
 
